@@ -1,4 +1,4 @@
-# Firmware for GPS vehicle tracker, for ESP32 with SIM800L modem
+# Firmware for ESP32 GPS vehicle tracker, with SIM800L modem
 
 
 ## Installation procedure
